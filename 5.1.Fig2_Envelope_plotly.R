@@ -5,7 +5,7 @@
 ### 5.1. Figures : Climate envelope
 ###############################################
 
-change_tab <- read.table('/Users/localadmin/Documents/PhD/Paper3_Wetlands/Data_to_publish/Table_all_new.txt', h=T)
+change_tab <- read.table('Table_all_new.txt', h=T)
 head(change_tab)
 dim(change_tab)
 
